@@ -15,3 +15,5 @@ Dynamic visuals were developed to evaluate distinct sales trends, including stac
 
 📊 Key Insights: 
 Peak activity during lunch (12:00–1:00 PM) and dinner (4:00–7:00 PM), with the "Classic" category driving the highest overall sales volume. While The Thai Chicken Pizza generates the most revenue and The Classic Deluxe Pizza leads in total quantities sold , The Brie Carre Pizza consistently underperforms, recording the lowest figures for revenue, quantity, and total orders.
+
+Link of the tableau dashboard: https://prod-in-a.online.tableau.com/#/site/singhyuvi1404-2aa4fe4896/workbooks/392642?:origin=card_share_link
